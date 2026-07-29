@@ -1,1 +1,9 @@
-hghghg
+["info":
+[{"icon":["text":"A"]},{"name":["text":"The A"]},{"version":["multinumber":"1.0.0"]}]
+],
+["path":
+[{"filepath":["path":"App1/.app/index.html"]},{"resourcepath":["path":"App1/.resource"]}
+],
+["special":
+[{"permissions":false},{"cache":false},{"connections":false}]
+]
